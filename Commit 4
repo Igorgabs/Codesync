@@ -1,0 +1,4 @@
+docs: adiciona o diagrama de classes ao projeto"
+- Adiciona o Diagrama de Classes do HospedJa, modelando Usuario (abstrata) e suas especializacoes Cliente, Admin, Guia e GestorHospedagem
+- Modela Hospedagem, Endereco, TipoQuarto, Reserva, ItemReserva, Pagamento, Pesquisa, Avaliacao (abstrata com AvaliacaoHospedagem e AvaliacaoGuia), Atendimento, Mensagem, Log, Ocorrencia e Punicao, com atributos, metodos e relacionamentos de associacao, composicao, agregacao e generalizacao
+- Inclui as enumeracoes do dominio: StatusUsuario, TipoUsuario, StatusReserva, StatusPagamento, MetodoPagamento, NotaAvaliacao, TipoGuia, StatusAtendimento, entre outras
