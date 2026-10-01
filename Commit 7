@@ -1,0 +1,6 @@
+design: adiciona telas de navegacao principal do HospedJa
+- Cria tela de inicio com destaques e recomendacoes de hospedagens
+- Cria tela de explorar para busca e listagem de hospedagens disponiveis
+- Cria tela de reservas com historico e reservas ativas do cliente
+- Cria tela de guias turisticos disponiveis para contratacao
+- Cria tela de perfil do usuario com dados cadastrais
