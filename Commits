@@ -1,0 +1,4 @@
+docs: adiciona diagrama de componentes e atualiza diagrama de casos de uso"
+"- Adiciona diagrama de componentes UML: Interface web, Servico de autenticacao (Java), Servico de reservas (Python), Banco de dados e integracao externa com Mercado Pago"
+"- Adiciona documento explicando cada componente, a notacao UML utilizada (componente, interface fornecida/requerida, porta, dependencia) e a justificativa da arquitetura"
+"- Atualiza diagrama de casos de uso com os casos que faltavam: recuperar senha, gerenciar perfil, logout, filtrar resultados e ordenar resultados
