@@ -1,0 +1,3 @@
+docs: ajusta o diagrama de classes com as implementacoes pedidas pelo professor
+- Revisa o Diagrama de Classes do HospedJa conforme apontamentos feitos em sala
+- Refina heranca entre Usuario e suas especializacoes e os relacionamentos entre Reserva, Pagamento, Avaliacao e Ocorrencia/Punicao
