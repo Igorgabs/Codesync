@@ -1,0 +1,3 @@
+docs: ajusta o DER com as implementacoes pedidas pelo professor
+- Revisa o Diagrama Entidade-Relacionamento do HospedJa conforme apontamentos feitos em sala
+- Refina cardinalidades e chaves estrangeiras entre as entidades de reserva, pagamento, avaliacao e atendimento
