@@ -1,0 +1,5 @@
+design: adiciona telas de autenticacao e cadastro do HospedJa
+- Cria tela inicial de boas-vindas do aplicativo"
+- Cria tela de login com email e senha
+- Cria tela de cadastro de novo usuario
+- Cria tela de autenticacao por telefone (verificacao via SMS/codigo)
