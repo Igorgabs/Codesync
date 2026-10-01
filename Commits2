@@ -1,0 +1,3 @@
+docs: adiciona o DER ao projeto
+"- Adiciona o Diagrama Entidade-Relacionamento (DER) do HospedJa, cobrindo usuarios, hospedagens, quartos, reservas, pagamentos, avaliacoes, guias, ocorrencias, penalidades e atendimento (SAC/chatbot)
+"- Modela as entidades USUARIO, HOTEL, REDE_HOTEIS, ENDERECO, TIPO_QUARTO, RESERVA, ITEM_RESERVA, PAGAMENTO, AVALIACAO_HOSPEDAGEM, GUIA, RESERVA_GUIA, AVALIACAO_GUIA, FAVORITO, ADMIN_HOTEL, OCORRENCIA, PENALIDADE, ATENDIMENTO, MENSAGEM e LOG, com chaves primarias, estrangeiras e cardinalidades definidas
